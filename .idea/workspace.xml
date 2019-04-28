@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af2881ca-a5b1-40d5-bbf5-64b3ca9f34da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Fareway/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fareway/src/Fareway/MeatDepartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fareway/src/Fareway/ProduceDepartement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fareway/src/Fareway/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework20.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab20/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab20/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab20/src/lab20/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab20/src/lab20/Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab422/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab422/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -36,8 +26,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Homework20/Runner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="49">
-              <caret line="25" column="87" selection-start-line="25" selection-start-column="87" selection-end-line="25" selection-end-column="87" />
+            <state>
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -139,7 +128,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556468724786" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556474655302" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -187,7 +176,7 @@
       <option name="presentableId" value="Default" />
       <updated>1556243024298</updated>
       <workItem from="1556243028949" duration="51736000" />
-      <workItem from="1556425592316" duration="17116000" />
+      <workItem from="1556425592316" duration="19816000" />
     </task>
     <task id="LOCAL-00001" summary="still working on stream functions.... so hard">
       <created>1556333579810</created>
@@ -196,11 +185,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556333579810</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="so many ways to use functions">
+      <created>1556468791004</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556468791004</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68852000" />
+    <option name="totallyTimeSpent" value="71552000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -243,7 +239,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="still working on stream functions.... so hard" />
-    <option name="LAST_COMMIT_MESSAGE" value="still working on stream functions.... so hard" />
+    <MESSAGE value="so many ways to use functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="so many ways to use functions" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -294,8 +291,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Homework20/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="25" column="87" selection-start-line="25" selection-start-column="87" selection-end-line="25" selection-end-column="87" />
+        <state>
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
